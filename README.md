@@ -4,6 +4,7 @@
 🤹 Skills: <br />
 $~~~~~$✶ Python (numpy, pandas, scikit-learn) <br />
 $~~~~~$✶ SQL (PostgreSQL) <br />
+$~~~~~$✶ RDBMS (IBM Db2) <br />
 $~~~~~$✶ Linux (bash, vi) <br />
 $~~~~~$✶ Apache Airflow <br />
 $~~~~~$✶ Apache Spark (PySpark, SparkML) <br />
