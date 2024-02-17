@@ -3,7 +3,7 @@
 🌱 I’m currently digging into Data Engineering, Data Science & Machine Learning. <br />
 🤹 Skills: <br />
 $~~~~~$✶ Python (numpy, pandas, scikit-learn) <br />
-$~~~~~$✶ SQL <br />
+$~~~~~$✶ SQL (PostgreSQL) <br />
 $~~~~~$✶ Linux (bash, vi) <br />
 $~~~~~$✶ Apache Airflow <br />
 $~~~~~$✶ Apache Spark (PySpark, SparkML) <br />
