@@ -10,6 +10,7 @@ $~~~~~$✶ Apache Airflow <br />
 $~~~~~$✶ Apache Spark (PySpark, SparkML) <br />
 $~~~~~$✶ Cognos Analytics <br />
 $~~~~~$✶ Jupyter Notebook <br />
+$~~~~~$✶ ETL pipelines, webscraping, data warehousing <br />
 ⬇️ LinkedIn profile: www.linkedin.com/in/anna-nakonieczna-48095336 <br />
 🎓 Science Career profile: www.orcid.org/0000-0001-7046-5207 <br />
 🏅 Certificates: <br />
