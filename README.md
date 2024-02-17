@@ -1,4 +1,4 @@
-👋 Hi, I’m @ANakonieczna.<br />
+👋 Hi, I’m @ANakonieczna.<br /><br />
 👀 I’m interested in Big Data processing & understanding. <br />
 🌱 I’m currently digging into Data Engineering, Data Science & Machine Learning. <br />
 🤹 Skills: <br />
