@@ -2,7 +2,7 @@
 - 👀 I’m interested in Big Data processing & understanding.
 - 🌱 I’m currently digging into Data Engineering, Data Science & Machine Learning.
 - 🤹 Skills: ✶ Python (numpy, pandas, scikit-learn) ✶ SQL ✶ Linux (bash, vi) ✶ Apache Airflow ✶ Apache Spark (PySpark, SparkML)
-- ✶ Cognos Analytics
+✶ Cognos Analytics
 - ⬇️ LinkedIn profile: www.linkedin.com/in/anna-nakonieczna-48095336
 - 🎓 Science Career profile: www.orcid.org/0000-0001-7046-5207
 - 🏅 Certificates:
