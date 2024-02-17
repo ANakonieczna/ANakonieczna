@@ -10,7 +10,7 @@ $~~~~~$✶ Apache Airflow <br />
 $~~~~~$✶ Apache Spark (PySpark, SparkML) <br />
 $~~~~~$✶ Cognos Analytics <br />
 $~~~~~$✶ Jupyter Notebook <br />
-⬇️ LinkedIn profile: https://www.linkedin.com/in/anna-nakonieczna-48095336 <br />
+⬇️ LinkedIn profile: www.linkedin.com/in/anna-nakonieczna-48095336 <br />
 🎓 Science Career profile: www.orcid.org/0000-0001-7046-5207 <br />
 🏅 Certificates: <br />
 $~~~~~$ The Complete SQL Bootcamp: Go from Zero to Hero, Udemy 2023, http://ude.my/UC-37c6ebc1-958c-4e1a-afe5-0958d178a098 <br />
