@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ANakonieczna.
+- 👋 Hi, I’m @ANakonieczna. 
 - 👀 I’m interested in Big Data processing & understanding.
 - 🌱 I’m currently digging into Data Engineering, Data Science & Machine Learning.
 - 🤹 Skills: ✶ Python (numpy, pandas, scikit-learn) ✶ SQL ✶ Linux (bash, vi) ✶ Apache Airflow ✶ Apache Spark(PySpark, SparkML) ✶ Cognos Analytics
