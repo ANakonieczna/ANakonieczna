@@ -2,7 +2,7 @@
 - 👀 I’m interested in Big Data processing & understanding.
 - 🌱 I’m currently digging into Data Science & Machine Learning using scikit-learn & SparkML.
 - 📌 LinkedIn profile: www.linkedin.com/in/anna-nakonieczna-48095336
-- 🎓 Science Career profile: orcid.org/0000-0001-7046-5207
+- 🎓 Science Career profile: www.orcid.org/0000-0001-7046-5207
 - 🏅 Certificates:
 
 <!---
