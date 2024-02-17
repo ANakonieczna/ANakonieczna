@@ -1,12 +1,10 @@
-<pre>
 👋 Hi, I’m @ANakonieczna.<br />
 👀 I’m interested in Big Data processing & understanding. <br />
 🌱 I’m currently digging into Data Engineering, Data Science & Machine Learning. <br />
-🤹 Skills: <br />   ✶ Python (numpy, pandas, scikit-learn) <br />   ✶ SQL <br />   ✶ Linux (bash, vi)  <br />   ✶ Apache Airflow <br />   ✶ Apache Spark (PySpark, SparkML) <br />
+🤹 Skills: <br /><pre>   ✶ Python (numpy, pandas, scikit-learn) <br />   ✶ SQL <br />   ✶ Linux (bash, vi)  <br />   ✶ Apache Airflow <br />   ✶ Apache Spark (PySpark, SparkML)</pre> <br />
 ⬇️ LinkedIn profile: https://www.linkedin.com/in/anna-nakonieczna-48095336 <br />
 🎓 Science Career profile: www.orcid.org/0000-0001-7046-5207 <br />
 🏅 Certificates: <br />
-</pre>pre>
 
 <!---
 ANakonieczna/ANakonieczna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
