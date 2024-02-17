@@ -10,6 +10,8 @@ $~~~~~$✶ Apache Spark (PySpark, SparkML) <br />
 ⬇️ LinkedIn profile: https://www.linkedin.com/in/anna-nakonieczna-48095336 <br />
 🎓 Science Career profile: www.orcid.org/0000-0001-7046-5207 <br />
 🏅 Certificates: <br />
+$~~~~~$ <br />
+$~~~~~$ <br />
 
 <!---
 ANakonieczna/ANakonieczna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
