@@ -16,6 +16,7 @@ $~~~~~$✶ ETL pipelines, webscraping, data warehousing <br />
 🏅 Certificates: <br />
 $~~~~~$ The Complete SQL Bootcamp: Go from Zero to Hero, Udemy 2023 [CERTIFICATE](http://ude.my/UC-37c6ebc1-958c-4e1a-afe5-0958d178a098)<br />
 $~~~~~$ The Ultimate Pandas Bootcamp: Advanced Python Data Analysis, Udemy 2023 [CERTIFICATE](https://ude.my/UC-c6700ce4-d07f-4b41-abfe-d8e25bc65708)<br />
+$~~~~~$ IBM Data Engineering Professional Certificate, Coursera 2024 [CERTIFICATE]([https://ude.my/UC-c6700ce4-d07f-4b41-abfe-d8e25bc65708](https://www.coursera.org/account/accomplishments/professional-cert/FBHXTNZWTN2Q?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof))<br />
 
 <!---
 ANakonieczna/ANakonieczna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
