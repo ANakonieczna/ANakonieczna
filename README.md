@@ -3,13 +3,13 @@
 🌱 I’m currently digging into Data Engineering, Data Science & Machine Learning. <br />
 🤹 Skills: <br />
 $~~~~~$✶ Python (numpy, pandas, scikit-learn) <br />
+$~~~~~$✶ Jupyter Notebook <br />
 $~~~~~$✶ SQL <br />
 $~~~~~$✶ RDBMS (IBM Db2, PostgreSQL, MySQL) <br />
 $~~~~~$✶ Linux (bash, vi) <br />
 $~~~~~$✶ Apache Airflow <br />
 $~~~~~$✶ Apache Spark (PySpark, SparkML) <br />
 $~~~~~$✶ Cognos Analytics <br />
-$~~~~~$✶ Jupyter Notebook <br />
 $~~~~~$✶ ETL pipelines, webscraping, data warehousing <br />
 ⬇️ LinkedIn profile: www.linkedin.com/in/anna-nakonieczna-48095336 <br />
 🎓 Science Career profile: www.orcid.org/0000-0001-7046-5207 <br />
