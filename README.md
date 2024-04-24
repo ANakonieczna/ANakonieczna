@@ -1,6 +1,6 @@
 👋 Hi, I’m @ANakonieczna.<br />
 👀 I’m interested in Big Data processing & understanding. <br />
-🌱 I’m currently digging into Data Engineering, Data Science & Machine Learning. <br />
+🌱 I’m currently digging into Data Science, Data Engineering & Machine Learning. <br />
 🤹 Skills: <br />
 $~~~~~$✶ Python (numpy, pandas, scikit-learn) <br />
 $~~~~~$✶ Jupyter Notebook <br />
