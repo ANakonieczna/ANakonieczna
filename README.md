@@ -2,7 +2,7 @@
 👀 I’m interested in Big Data processing & understanding. <br />
 🌱 I’m currently digging into Data Science, Data Engineering & Machine Learning. <br />
 🤹 Skills: <br />
-$~~~~~$✶ Python (numpy, pandas, scikit-learn) <br />
+$~~~~~$✶ Python (numpy, pandas, scikit-learn, matplotlib, seaborn, folium) <br />
 $~~~~~$✶ Jupyter Notebook <br />
 $~~~~~$✶ SQL <br />
 $~~~~~$✶ RDBMS (IBM Db2, PostgreSQL, MySQL) <br />
