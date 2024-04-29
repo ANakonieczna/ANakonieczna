@@ -1,6 +1,7 @@
 👋 Hi, I’m @ANakonieczna.<br />
 👀 I’m interested in Big Data processing & understanding. <br />
 🌱 I’m currently digging into Data Science, Data Engineering - data acquisition, architecture & Machine Learning. <br />
+
 🤹 Skills: <br />
 $~~~~~$✶ Python (numpy, pandas, scikit-learn, matplotlib, seaborn, folium) <br />
 $~~~~~$✶ Jupyter Notebook <br />
@@ -14,8 +15,10 @@ $~~~~~$✶ git/GitHub <br />
 $~~~~~$✶ data pre-processing & visualization, exploratory data analysis, model development, evaluation & refinement <br />
 $~~~~~$✶ basic concepts of Machine Learning using scikit-learn & SparkML <br />
 $~~~~~$✶ ETL pipelines, webscraping, data warehousing <br />
+
 ⬇️ LinkedIn profile: www.linkedin.com/in/anna-nakonieczna-48095336 <br />
 🎓 Science Career profile: www.orcid.org/0000-0001-7046-5207 <br />
+
 🏅 Certificates: <br />
 $~~~~~$ The Complete SQL Bootcamp: Go from Zero to Hero, Udemy 2023 [CERTIFICATE](http://ude.my/UC-37c6ebc1-958c-4e1a-afe5-0958d178a098)<br />
 $~~~~~$ The Ultimate Pandas Bootcamp: Advanced Python Data Analysis, Udemy 2023 [CERTIFICATE](https://ude.my/UC-c6700ce4-d07f-4b41-abfe-d8e25bc65708)<br />
