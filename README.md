@@ -3,7 +3,7 @@
 🌱 I’m currently digging into Data Science, Machine Learning & Data Engineering - data acquisition, architecture. <br />
 
 🤹 Skills: <br />
-$~~~~~$✶ Python (numpy, pandas, scikit-learn, matplotlib, seaborn, folium) <br />
+$~~~~~$✶ Python (numpy, pandas, scikit-learn, matplotlib, seaborn) <br />
 $~~~~~$✶ Jupyter Notebook <br />
 $~~~~~$✶ SQL <br />
 $~~~~~$✶ RDBMS (IBM Db2, PostgreSQL, MySQL) <br />
@@ -12,6 +12,8 @@ $~~~~~$✶ Linux (bash, vi) <br />
 $~~~~~$✶ Apache Airflow <br />
 $~~~~~$✶ Apache Spark (PySpark, SparkML) <br />
 $~~~~~$✶ git/GitHub <br />
+$~~~~~$✶ MS EXcel <br />
+$~~~~~$✶ MS PowerPoint <br />
 $~~~~~$✶ data pre-processing & visualization, exploratory data analysis, model development, evaluation & refinement <br />
 $~~~~~$✶ basic concepts of Machine Learning using scikit-learn & SparkML <br />
 $~~~~~$✶ ETL pipelines, webscraping, data warehousing <br />
