@@ -12,7 +12,7 @@ $~~~~~$✶ Linux (bash, vi) <br />
 $~~~~~$✶ Apache Airflow <br />
 $~~~~~$✶ Apache Spark (PySpark, SparkML) <br />
 $~~~~~$✶ git/GitHub <br />
-$~~~~~$✶ MS EXcel <br />
+$~~~~~$✶ MS Excel <br />
 $~~~~~$✶ MS PowerPoint <br />
 $~~~~~$✶ data pre-processing & visualization, exploratory data analysis, model development, evaluation & refinement <br />
 $~~~~~$✶ basic concepts of Machine Learning using scikit-learn & SparkML <br />
