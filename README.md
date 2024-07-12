@@ -1,6 +1,6 @@
 👋 Hi, I’m @ANakonieczna.<br />
 👀 I’m interested in Big Data processing & understanding. <br />
-🌱 I’m currently digging into Data Science, Machine Learning & Data Engineering - data acquisition, architecture. <br />
+🌱 I’m currently digging into Risk Quantitative Modelling. <br />
 
 🤹 Skills: <br />
 $~~~~~$✶ Python (numpy, pandas, scikit-learn, matplotlib, seaborn) <br />
