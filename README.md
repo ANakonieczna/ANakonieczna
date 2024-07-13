@@ -1,6 +1,5 @@
 👋 Hi, I’m @ANakonieczna.<br />
 👀 I’m interested in Big Data processing & understanding. <br />
-🌱 I’m currently digging into Risk Quantitative Modelling. <br />
 
 🤹 Skills: <br />
 $~~~~~$✶ Python (numpy, pandas, scikit-learn, matplotlib, seaborn) <br />
@@ -9,7 +8,6 @@ $~~~~~$✶ SQL <br />
 $~~~~~$✶ RDBMS (IBM Db2, PostgreSQL, MySQL) <br />
 $~~~~~$✶ Microsoft Power BI <br />
 $~~~~~$✶ Linux (bash, vi) <br />
-$~~~~~$✶ Apache Airflow <br />
 $~~~~~$✶ Apache Spark (PySpark, SparkML) <br />
 $~~~~~$✶ git/GitHub <br />
 $~~~~~$✶ MS Excel <br />
