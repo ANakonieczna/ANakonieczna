@@ -2,15 +2,12 @@
 👀 I’m interested in Big Data processing & understanding. <br />
 
 🤹 Skills: <br />
-$~~~~~$✶ Python (numpy, pandas, scikit-learn, matplotlib, seaborn) <br />
-$~~~~~$✶ Jupyter Notebook <br />
-$~~~~~$✶ SQL <br />
-$~~~~~$✶ RDBMS (IBM Db2, PostgreSQL, MySQL) <br />
+$~~~~~$✶ Python (numpy, pandas, scikit-learn, matplotlib, seaborn), Jupyter Notebook <br />
+$~~~~~$✶ SQL, RDBMS (IBM Db2, PostgreSQL, MySQL) <br />
 $~~~~~$✶ Linux (bash, vi) <br />
 $~~~~~$✶ Apache Spark (PySpark, SparkML) <br />
 $~~~~~$✶ git/GitHub <br />
-$~~~~~$✶ MS Excel <br />
-$~~~~~$✶ MS PowerPoint <br />
+$~~~~~$✶ MS Excel, MS PowerPoint <br />
 $~~~~~$✶ data pre-processing & visualization, exploratory data analysis, model development, evaluation & refinement <br />
 $~~~~~$✶ basic concepts of Machine Learning using scikit-learn & SparkML <br />
 $~~~~~$✶ statistics, stochastic calculus, quantitative financial risk modelling, financial derivatives <br />
