@@ -20,7 +20,8 @@ $~~~~~$ The Complete SQL Bootcamp: Go from Zero to Hero, Udemy 2023 [CERTIFICATE
 $~~~~~$ The Ultimate Pandas Bootcamp: Advanced Python Data Analysis, Udemy 2023 [CERTIFICATE](https://ude.my/UC-c6700ce4-d07f-4b41-abfe-d8e25bc65708)<br />
 $~~~~~$ IBM Data Engineering Professional Certificate, Coursera 2024 [CERTIFICATE](https://www.coursera.org/account/accomplishments/specialization/FBHXTNZWTN2Q)<br />
 $~~~~~$ IBM Data Science Professional Certificate, Coursera 2024 [CERTIFICATE](https://www.coursera.org/account/accomplishments/specialization/PXR2MGZPQE6T)<br />
-$~~~~~$ Introduction to Risk Management, New York Institute of Finance, Coursera 2024 [CERTIFICATE](https://coursera.org/share/0655c887980f8b9151ac864b249674b8)<br />
+$~~~~~$ Introduction to Risk Management, New York Institute of Finance, Coursera 2024 [CERTIFICATE](https://coursera.org/share/0655c887980f8b9151ac864b249674b8)<br /
+$~~~~~$ Computational Methods in Pricing and Model Calibration, Columbia University, Coursera 2024 [CERTIFICATE]()<br />
 
 <!---
 ANakonieczna/ANakonieczna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
