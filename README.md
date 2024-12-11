@@ -21,7 +21,7 @@ $~~~~~$ The Ultimate Pandas Bootcamp: Advanced Python Data Analysis, Udemy 2023 
 $~~~~~$ IBM Data Engineering Professional Certificate, Coursera 2024 [CERTIFICATE](https://www.coursera.org/account/accomplishments/specialization/FBHXTNZWTN2Q)<br />
 $~~~~~$ IBM Data Science Professional Certificate, Coursera 2024 [CERTIFICATE](https://www.coursera.org/account/accomplishments/specialization/PXR2MGZPQE6T)<br />
 $~~~~~$ Introduction to Risk Management, New York Institute of Finance, Coursera 2024 [CERTIFICATE](https://coursera.org/share/0655c887980f8b9151ac864b249674b8)<br />
-$~~~~~$ Computational Methods in Pricing and Model Calibration, Columbia University, Coursera 2024 [CERTIFICATE]()<br />
+$~~~~~$ Computational Methods in Pricing and Model Calibration, Columbia University, Coursera 2024 <br />
 
 <!---
 ANakonieczna/ANakonieczna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
