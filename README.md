@@ -1,5 +1,5 @@
 👋 Hi, I’m @ANakonieczna.<br />
-👀 I’m interested in Big Data processing & understanding. <br />
+👀 I’m interested in Big Data processing & understanding, especially in the area of computational finance. <br />
 
 🤹 Skills: <br />
 $~~~~~$✶ Python (numpy, pandas, scikit-learn, matplotlib, seaborn), Jupyter Notebook <br />
