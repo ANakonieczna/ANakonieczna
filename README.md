@@ -10,7 +10,7 @@ $~~~~~$✶ git/GitHub <br />
 $~~~~~$✶ MS Excel, MS PowerPoint <br />
 $~~~~~$✶ data pre-processing & visualization, exploratory data analysis, model development, evaluation & refinement <br />
 $~~~~~$✶ basic concepts of Machine Learning using scikit-learn & SparkML <br />
-$~~~~~$✶ statistics, stochastic calculus, quantitative financial risk modelling, financial derivatives <br />
+$~~~~~$✶ stochastic modelling, quantifying financial risks, financial derivatives <br />
 
 ⬇️ LinkedIn profile: www.linkedin.com/in/anna-nakonieczna-48095336 <br />
 🎓 Science Career profile: www.orcid.org/0000-0001-7046-5207 <br />
